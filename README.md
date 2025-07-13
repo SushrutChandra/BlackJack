@@ -44,19 +44,3 @@ Java 8+
 Swing GUI (provided template)
 
 Java standard libraries (Random, Array, AWT/Swing, etc.)
-
-📦 Project Structure
-bash
-Copy
-Edit
-├── blackjack/
-│   ├── Blackjack.java          # Game logic engine (your code)
-│   ├── BlackjackEngine.java    # Interface
-│   ├── Card.java
-│   ├── CardSuit.java
-│   ├── CardValue.java
-├── blackjackGUI/
-│   ├── BlackjackGUI.java       # GUI provided by instructor
-│   ├── CardImage.java
-│   ├── (image assets)
-├── PlayBlackjack.java          # Launches the GUI
